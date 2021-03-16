@@ -1,1 +1,1 @@
-# Gomoku-MinimaxAlgorithm
+# Gomoku-MinimaxAlgorithm-Pygame
